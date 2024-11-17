@@ -4,6 +4,12 @@
 
 This project is a real-time chat application built with Go using the Gin framework. It features user authentication via JWT tokens, WebSockets for real-time communication, and PostgreSQL for database management. Users can create and join chat rooms, where they can interact with multiple participants in real-time.
 
+![image](https://github.com/user-attachments/assets/e43736ed-f5f6-4402-a163-ce4f9d91bc19)
+
+![image](https://github.com/user-attachments/assets/71b23058-3612-4332-bb2a-7e48d6995c0f)
+
+![image](https://github.com/user-attachments/assets/7f315ce3-a58a-435f-862c-bc8027d84ad8)
+
 ## Features
 
   User Registration & Login: Secure authentication using JWT tokens.
@@ -30,6 +36,9 @@ This project is a real-time chat application built with Go using the Gin framewo
   PostgreSQL: Database to store user and room data.
   
   Cookie Sessions: Managing user sessions through cookies.
+
+  ![image](https://github.com/user-attachments/assets/477f28d0-609e-434a-b6db-6e0d5a70dd86)
+
 
 ## Project Setup
 ### Prerequisites
